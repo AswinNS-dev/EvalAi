@@ -1,0 +1,21 @@
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+# crewai
+groq==0.8.0
+openai
+PyGithub==2.3.0
+sentence-transformers==3.0.1
+faiss-cpu
+chromadb
+snowflake-connector-python
+twilio==9.1.0
+python-dotenv==1.0.1
+pydantic
+pydantic-settings
+python-multipart==0.0.9
+aiofiles==23.2.1
+httpx==0.27.0
+pypdf==4.2.0
+python-pptx==1.0.0
+sse-starlette==2.1.0
+numpy
